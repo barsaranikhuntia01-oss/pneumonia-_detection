@@ -1,0 +1,10 @@
+pneumonia-cnn/
+
+│
+├── pneumonia_detection_using_cnn(collab).ipynb
+├──pneumonia_detection_using_cnn(collab).py
+├── pneumonia_model.keras
+├── accuracy_graph
+├── confusion_matrix
+├── README.md
+└── requirements.txt
